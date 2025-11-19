@@ -29,7 +29,7 @@ I'm open to any advice/changes **(DM me on discord)**
 3. Use **Waypoint → Town**
 4. Take **TP → Den of Evil**
 5. Clear Den → get **Skill Point from Akara**
-6. Leave game → Town
+6. Leave game → Town → Take Cold Plain WP
 7. Cold Plains → follow path to **Black Marsh**
 8. Find **Black Marsh WP**
 9. Optional: **Tower Cellar** (farm Tal + Eth for Stealth)
