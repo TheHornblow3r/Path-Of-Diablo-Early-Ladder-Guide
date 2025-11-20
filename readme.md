@@ -24,28 +24,29 @@ I'm open to any advice/changes **(DM me on discord)**
 
 # Main Route
 
-1. Run to **Den of Evil** (follow path) & place TP
-2. Follow path to **Cold Plains**
+1. **Blood Moor** -> Run to **Den of Evil** by following path & place TP outside entrance (will TP back later)
+2. Follow path towards **Cold Plains**
 3. Use **Waypoint → Town**
 4. Take **TP → Den of Evil**
 5. Clear Den → get **Skill Point from Akara**
 6. Leave game → Town → Take Cold Plain WP
 7. Cold Plains → follow path to **Black Marsh**
 8. Find **Black Marsh WP**
-9. Optional: **Tower Cellar** (farm Tal + Eth for Stealth)
-10. Run to **Outer Cloister**, get WP
-11. Run to **Barracks**, get **Horadric Hammer** (Imbue later)
+9. Optional: **Tower Cellar** for Countess (farm Tal + Eth for Stealth)
+10. Follow path to **Outer Cloister**, WP is inside second doorway
+11. Run to **Barracks** located between Outer Cloister & Jail, get **Horadric Hammer** (used to imbue later)
 12. Find **Jail Level 1 → Inner Cloister**
-13. Run top-right to **Catacombs** (Level 1 WP)
+13. Run top-right to **Catacombs** (WP for Catacombs located in Level 1)
 14. Run to Catacombs 3 → Kill **Andariel**
-15. Travel to Act 2 via **Warriv**
+15. Travel to Act 2 - **Warriv**
 
 # Act 1 Notes
-Find 2os Body Armour for Stealth (Tal+Eth) - Can also farm from Charsi<br>
-Find 2os Helm for Lore (Ort+Sol) - Can Farm from Charsi<br>
-Sorc: keep an eye on Akara’s shop for a 2 open socket staff with + to Firebolt and Warmth, we can use this for our Leaf runeword<br>
-Option to Farm Andy a couple times for items/runes. Nagelring + Laymo good early ladder options<br>
-Keep Eth items for Act 2 Merc when you get there<br>
+- Find 2os Body Armour for Stealth (Tal+Eth) - Can also farm from Charsi<br>
+- Find 2os Helm for Lore (Ort+Sol) - Can Farm from Charsi<br>
+- Keep White boots for Imbue Quest (Faster Run/Walk)
+- Sorc: keep an eye on Akara’s shop for a 2 open socket staff with + to Firebolt and Warmth, we can use this for our Leaf runeword<br>
+- Option to Farm Andy a couple times for items/runes. Nagelring + Laymo good early ladder options<br>
+- Keep Eth items for Act 2 Merc when you get there<br>
 
 # The Countess
 Can drop any rune from El (r01) - Ral (r08)<br>
@@ -58,18 +59,25 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 # Main Route
 
 1. Imbue boots for faster/runwalk
-2. Rocky Waste -> Dry Hills (right hand)
-3. Dry Hills TP at Halls of the Dead
-4. Dry Hills -> Far Oasis (follow edges)
-5. Find Far Oasis WP & go back to town
-6. Take TP to halls of the dead -> Find Lvl 3 -> Get Cube
-7. WP back to Far Oasis -> Maggot Lair (right hand) -> get Staff
-8. Far Oasis WP -> Lost City (run along edge to Valley of Snakes -> Viper Temple
-9. Talk to Drogan -> Harem lvl 1 -> Arcanes
-10. Kill summoner
-11. Canyon -> Tomb -> Kill Duriel
+2. Run **Rocky Waste -> Dry Hills** (right hand)
+3. In **Dry Hills** find **Halls of the Dead** and place TP at entrance
+4. **Dry Hills -> Far Oasis** (follow edges)
+5. Find **Far Oasis** WP & go back to town
+6. Take TP to **Halls of the Dead** -> Run to Lvl 3 -> Get Horadric Cube
+7. WP back to **Far Oasis -> Find Maggot Lair** -> Get Staff
+8. Take **Far Oasis** WP -> Find **Lost City** -> Run along edge to find Valley of Snakes -> Viper Temple for Amulet
+9. TP back to town -> talk to Drogan for Quest
+10. Run **Harem -> Palace Cellars -> Arcane Sanctuary**
+11. Kill Summoner
+12. **Canyon of the Magi -> Tal Rasha's Tomb -> Kill Duriel**
 
 # Act 2 Notes
+- Grab a **Combat Mercenary** for **Prayer Aura** <br>
+- Finish **The Sewers** for Book of Skill<br>
+- Once the Cube is obtained it is possible to farm runes from the Countess and get the Lore runeword by upgrading to get Ort and Sol but it will be a grind at this point which is especially useful for Druids<br>
+- **Duriel** - Drink Antidotes and Thawing Potions (3 each as their durations do stack) for you and your mercenary to boost your Poison and Cold resistance and you should be able to stay alive long enough to kill the boss<br>
+- You can buy a Belt to get 3 potion rows from Fara<br>
+- Act 1 and 2 in Normal are the only two places where NPCs will sell open sockets on gear, keep an eye out for a 3 open socket shield for Ancient’s Pledge later on
 
 ---
 ![act3](https://github.com/user-attachments/assets/33dff0b3-1414-46e6-9b20-4635c5d978eb)
@@ -84,6 +92,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 6. **Durance (left-hand)** → Kill **Meph**
 
 # Act 3 Notes
+- 
 
 ---
 ![act4](https://github.com/user-attachments/assets/381893f5-8d09-4f02-8a7d-d03aa4aaeddc)
@@ -96,6 +105,8 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 4. Kill **Diablo**
 
 # Act 4 Notes
+- Mephisto’s Soul Stone -> gems gain from smashing the soul stone may give you enough to craft a Caster Recipe depending on character
+- 
 
 ---
 ![act5](https://github.com/user-attachments/assets/a539e0b2-57a5-41dd-bfd3-93ec2609031c)
