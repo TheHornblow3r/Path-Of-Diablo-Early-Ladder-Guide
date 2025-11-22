@@ -1,11 +1,12 @@
 ![Horn-EarlyLadder](https://github.com/user-attachments/assets/77fdb75f-4871-4039-ad2f-a576ab5263d3)
 ## **Table of Contents**
 
-[Act 1 – The Sightless Eye](#act1-image)
-[Act 2 – The Secret of the Vizjerei](#act2-image)
-[Act 3 – The Infernal Gate](#act3-image)
-[Act 4 – The Harrowing](#act4-image)
-[Act 5 – Lord of Destruction](#act5-image)
+[Act 1 – The Sightless Eye](#act1-image)<br>
+[Act 2 – The Secret of the Vizjerei](#act2-image)<br>
+[Act 3 – The Infernal Gate](#act3-image)<br>
+[Act 4 – The Harrowing](#act4-image)<br>
+[Act 5 – Lord of Destruction](#act5-image)<br>
+[Addition Resources](#low-level-runewords)
 
 # Information
 **Accurate with:** Path of Diablo, Project Diablo, Diablo 2, Diablo 2: Resurrected<br>
@@ -168,7 +169,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 - Runes from freeing barbarians give you Tal + Ral + Ort which can be used to make **Ancients Pledge** in 3os Shield
 
 ---
-
+<a id="low-level-runewords"></a>
 <details>
     <summary><h2>Low-Level Runeword List</h2></summary>
 
