@@ -23,9 +23,10 @@ Follow him online at: [https://www.twitch.tv/Thehornblower](https://www.twitch.t
 I'm open to any advice/changes **(DM me on discord)**
 
 ---
+<a id="act1-image"></a>
 
 ![act1](https://github.com/user-attachments/assets/2c25fc50-8613-4871-89a6-340f48c49240)
-<a id="act1-image"></a>
+
 # Main Route
 
 1. **Blood Moor** -> Run to **Den of Evil** by following path & place TP outside entrance (will TP back later)
@@ -66,8 +67,10 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 **Desired Runes:** Tal, Eth, Nef, Tir, Ral
 
 ---
-![act2](https://github.com/user-attachments/assets/07af3b5d-48ec-463c-966c-1d09bc0f68e7)
 <a id="act2-image"></a>
+
+![act2](https://github.com/user-attachments/assets/07af3b5d-48ec-463c-966c-1d09bc0f68e7)
+
 # Main Route
 
 1. Imbue boots for faster/runwalk
@@ -94,8 +97,10 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 - Act 1 and 2 in Normal are the only two places where NPCs will sell open sockets on gear, keep an eye out for a 3 open socket shield for Ancient’s Pledge later on
 
 ---
-![act3](https://github.com/user-attachments/assets/33dff0b3-1414-46e6-9b20-4635c5d978eb)
 <a id="act3-image"></a>
+
+![act3](https://github.com/user-attachments/assets/33dff0b3-1414-46e6-9b20-4635c5d978eb)
+
 # Main Route
 
 1. **Spider Forest → Spider Cavern** → Khalim’s Eye via Chest
@@ -118,8 +123,10 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 - Use Merc to tank Mephisto hits when Killing Meph as he hits hard in Normal
 
 ---
-![act4](https://github.com/user-attachments/assets/381893f5-8d09-4f02-8a7d-d03aa4aaeddc)
 <a id="act4-image"></a>
+
+![act4](https://github.com/user-attachments/assets/381893f5-8d09-4f02-8a7d-d03aa4aaeddc)
+
 # Main Route
 
 1. **Outer Steppes → Plains of Despair** → Kill Izual (2 Skills Points)
@@ -135,8 +142,10 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 - **Caster Belt:** Any Jewel + Perfect Amethyst + Ith
 
 ---
-![act5](https://github.com/user-attachments/assets/a539e0b2-57a5-41dd-bfd3-93ec2609031c)
 <a id="act5-image"></a>
+
+![act5](https://github.com/user-attachments/assets/a539e0b2-57a5-41dd-bfd3-93ec2609031c)
+
 # Main Route
 
 1. **Bloody Foothills** -> Kill Shenk at end (Socket Quest)
