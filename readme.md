@@ -76,9 +76,10 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 7. WP back to **Far Oasis -> Find Maggot Lair** -> Get Staff
 8. Take **Far Oasis** WP -> Find **Lost City** -> Run along edge to find Valley of Snakes -> Viper Temple for Amulet
 9. TP back to town -> talk to Drogan for Quest
-10. Run **Harem -> Palace Cellars -> Arcane Sanctuary**
+10. Run **Harem -> Palace Cellars 1/2/3 -> Arcane Sanctuary**
 11. Kill Summoner
 12. **Canyon of the Magi -> Tal Rasha's Tomb -> Kill Duriel**
+13. Talk to Tyreal -> take red TP -> Talk to Jerhyn -> Make Town Portal in **Harem Level 1** -> Travel Act 3 via Warriv
 
 # Act 2 Notes
 - Grab a **Combat Mercenary** for **Prayer Aura** <br>
