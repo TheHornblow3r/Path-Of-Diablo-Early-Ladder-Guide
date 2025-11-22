@@ -2,10 +2,10 @@
 ## **Table of Contents**
 
 * ![Act 1 – The Sightless Eye](#act1-image)
-* ![Act 2 – The Secret of the Vizjerei](#act2)
-* ![Act 3 – The Infernal Gate](#act3)
-* ![Act 4 – The Harrowing](#act4)
-* ![Act 5 – Lord of Destruction](#act5)
+* ![Act 2 – The Secret of the Vizjerei](#act2-image)
+* ![Act 3 – The Infernal Gate](#act3-image)
+* ![Act 4 – The Harrowing](#act4-image)
+* ![Act 5 – Lord of Destruction](#act5-image)
 
 # Information
 **Accurate with:** Path of Diablo, Project Diablo, Diablo 2, Diablo 2: Resurrected<br>
@@ -67,7 +67,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 ---
 ![act2](https://github.com/user-attachments/assets/07af3b5d-48ec-463c-966c-1d09bc0f68e7)
-
+<a id="act2-image"></a>
 # Main Route
 
 1. Imbue boots for faster/runwalk
@@ -95,7 +95,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 ---
 ![act3](https://github.com/user-attachments/assets/33dff0b3-1414-46e6-9b20-4635c5d978eb)
-
+<a id="act3-image"></a>
 # Main Route
 
 1. **Spider Forest → Spider Cavern** → Khalim’s Eye via Chest
@@ -119,7 +119,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 ---
 ![act4](https://github.com/user-attachments/assets/381893f5-8d09-4f02-8a7d-d03aa4aaeddc)
-
+<a id="act4-image"></a>
 # Main Route
 
 1. **Outer Steppes → Plains of Despair** → Kill Izual (2 Skills Points)
@@ -136,7 +136,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 ---
 ![act5](https://github.com/user-attachments/assets/a539e0b2-57a5-41dd-bfd3-93ec2609031c)
-
+<a id="act5-image"></a>
 # Main Route
 
 1. **Bloody Foothills** -> Kill Shenk at end (Socket Quest)
