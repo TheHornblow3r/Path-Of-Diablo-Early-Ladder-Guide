@@ -1,11 +1,11 @@
 ![Horn-EarlyLadder](https://github.com/user-attachments/assets/77fdb75f-4871-4039-ad2f-a576ab5263d3)
 ## **Table of Contents**
 
-* ![Act 1 – The Sightless Eye](#act1-image)
-* ![Act 2 – The Secret of the Vizjerei](#act2-image)
-* ![Act 3 – The Infernal Gate](#act3-image)
-* ![Act 4 – The Harrowing](#act4-image)
-* ![Act 5 – Lord of Destruction](#act5-image)
+[Act 1 – The Sightless Eye](#act1-image)
+[Act 2 – The Secret of the Vizjerei](#act2-image)
+[Act 3 – The Infernal Gate](#act3-image)
+[Act 4 – The Harrowing](#act4-image)
+[Act 5 – Lord of Destruction](#act5-image)
 
 # Information
 **Accurate with:** Path of Diablo, Project Diablo, Diablo 2, Diablo 2: Resurrected<br>
