@@ -59,6 +59,7 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 # Main Route
 
 1. Imbue boots for faster/runwalk
+   1. Optional: Run Sewers for Radament to get book of skill or do it later
 2. Run **Rocky Waste -> Dry Hills** (right hand)
 3. In **Dry Hills** find **Halls of the Dead** and place TP at entrance
 4. **Dry Hills -> Far Oasis** (follow edges)
@@ -98,9 +99,9 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 11. **Durance (left-hand)** → Kill **Meph**
 
 # Act 3 Notes
-- **Great Marsh** and **Flayer Jungle** can be linear where you will have to go through **Black Marsh** to find **Flayer Jungle** OR sometimes you can slip **Black Marsh** and find **Flayer Dungeon right** away (Best Case Scenario)
+- **Great Marsh** and **Flayer Jungle** can be linear where you will have to go through **Black Marsh** to find **Flayer Jungle** OR sometimes you can skip **Black Marsh** and find **Flayer Dungeon** right away (Best Case Scenario)
 - Always check the other side of the Fork where Black Marsh is incase you have Flayer Dungeon branching off the other way.
-- When running through Act 3 and you find the Jade Figurine, return quest whenever you head back to town.
+- When running through Act 3 and you find the Jade Figurine from killing unique monster, return quest and get potion of life
 - Use Merc to tank Mephisto hits when Killing Meph as he hits hard in Normal
 
 ---
@@ -125,16 +126,18 @@ Farm for enough runes for Stealth, Nadir and Leaf depending on character<br>
 
 # Main Route
 
-1. **Bloody Foothills → Frigid Highlands**
-2. Free Barbarians in **Frigid Highlands**
-3. **Arreat Plateau → Crystalline Passage → Frozen River**
-4. Save Anya for Resistance Potion
-5. **Glacial Trail → Tundra → Ancient's Way**
-6. Kill **Ancients**
-7. **Worldstone Keep → Baal**
-8. Socket shield at Larzuk for **Ancient’s Pledge**
-9. Move to **Nightmare**
+1. **Bloody Foothills** -> Kill Shenk at end (Socket Quest)
+2. Continue to → **Frigid Highlands**
+3. Free Barbarians in **Frigid Highlands** by finding 3 wooden pens (Ability to hire Barbarians, and 3 Runes for **Ancients Pledge**)
+4. Continue to **Arreat Plateau → Crystalline Passage -> Find Waypoint**. Place TP at **Frozen River** you find it first
+5. Enter **Frozen River -> Save Anya** -> Resistance Potion (+10 to All Resistances)
+6. TP Back to town & take **Crystalline Passage WP -> Glacial Trail → Frozen Tundra → Ancient's Way**
+7. Kill **Ancients -> Continue through entrance to World Stone Keep**
+8. **Worldstone Keep 1/3 → Throne of Destruction -> Baal**
+9. Socket shield at Larzuk for **Ancient’s Pledge** or save for something else
+10. Move to **Nightmare**
 
 # Act 5 Notes
+- Runes from freeing barbarians give you Tal + Ral + Ort which can be used to make **Ancients Pledge** in 3os Shield
 
 ---
