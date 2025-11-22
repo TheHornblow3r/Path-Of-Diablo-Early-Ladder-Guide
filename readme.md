@@ -1,7 +1,7 @@
 ![Horn-EarlyLadder](https://github.com/user-attachments/assets/77fdb75f-4871-4039-ad2f-a576ab5263d3)
 ## **Table of Contents**
 
-* ![Act 1 – The Sightless Eye](#act1)
+* ![Act 1 – The Sightless Eye](#act1-image)
 * ![Act 2 – The Secret of the Vizjerei](#act2)
 * ![Act 3 – The Infernal Gate](#act3)
 * ![Act 4 – The Harrowing](#act4)
@@ -23,8 +23,9 @@ Follow him online at: [https://www.twitch.tv/Thehornblower](https://www.twitch.t
 I'm open to any advice/changes **(DM me on discord)**
 
 ---
-![act1](https://github.com/user-attachments/assets/2c25fc50-8613-4871-89a6-340f48c49240)
 
+![act1](https://github.com/user-attachments/assets/2c25fc50-8613-4871-89a6-340f48c49240)
+<a id="act1-image"></a>
 # Main Route
 
 1. **Blood Moor** -> Run to **Den of Evil** by following path & place TP outside entrance (will TP back later)
