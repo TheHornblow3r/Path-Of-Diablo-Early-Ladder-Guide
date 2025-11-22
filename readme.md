@@ -34,15 +34,19 @@ I'm open to any advice/changes **(DM me on discord)**
 8. Follow path to **Cold Plains → Underground Passage Level 1 -> Dark Wood** (Do not got into Underpassage Level 2)
 9. Look for **Tree of Inifuss** for the scroll to open Tristram
 10. Follow path in **Dark Wood -> Black Marsh**
-   1. Optional: Run **Tower Cellar** in **Black Marsh** for Countess (farm Tal + Eth for Stealth)
-11. Follow path to **Outer Cloister**, Waypoint is inside second doorway
-12. Take town portal or Waypoint back to **Stony Field** and Save Deckard Cain
-13. Take Waypoint to **Outer Cloister**
-14. Run to **Barracks** located between Outer Cloister & Jail, get **Horadric Hammer** (used to imbue later)
-15. Find **Jail Level 1 → Inner Cloister**
-16. Run top-right to **Catacombs** (WP for Catacombs located in Level 1)
-17. Run to Catacombs 3 → Kill **Andariel**
-18. Travel to Act 2 - **Warriv**
+    1. Optional: Run **Tower Cellar** in **Black Marsh** for Countess (farm Tal + Eth for Stealth)
+12. Follow path to **Outer Cloister**, Waypoint is inside second doorway
+13. Take town portal or Waypoint back to **Stony Field** and Save Deckard Cain
+14. Take Waypoint to **Outer Cloister**
+15. Find **Barracks** 
+    1. Waypoint: Left-side of square -> Barracks: Bottom-right
+    2. Waypoint: Ride-side of square with bushes -> Barracks: Top-right
+    3. Waypoint: Right-side of square with fountain -> Barracks: Top-left
+19. Get **Horadric Hammer** (used to imbue later)
+20. Find **Jail Level 1 → Inner Cloister**
+21. Run top-right to **Catacombs** (WP for Catacombs located in Level 1)
+22. Run to Catacombs 3 → Kill **Andariel**
+23. Travel to Act 2 - **Warriv**
 
 # Act 1 Notes
 - Find 2os Body Armour for Stealth (Tal+Eth) - Can also farm from Charsi<br>
