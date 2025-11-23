@@ -37,15 +37,17 @@ I'm open to any advice/changes **(DM me on discord)**
 4. Take **TP → Den of Evil**
 5. Clear Den → get **Skill Point from Akara**
 6. Leave game → Town → Take **Cold Plain waypoint**
-7. Follow path in **Cold Plains → Stony Field** → Place TP at Tristram Stones OR find **Stony Fields Waypoint** for Tristram runs
+7. Follow path in **Cold Plains → Stony Field** → Find **Stony Fields Waypoint** for Tristram runs
 8. Follow path to **Cold Plains → Underground Passage Level 1 -> Dark Wood** (Do not got into Underpassage Level 2)
 9. Look for **Tree of Inifuss** for the scroll to open Tristram
-10. Follow path in **Dark Wood -> Black Marsh**
-    1. Optional: Run **Tower Cellar** in **Black Marsh** for Countess (farm Tal + Eth for Stealth)
-12. Follow path to **Outer Cloister**, Waypoint is inside second doorway
-13. Take town portal or Waypoint back to **Stony Field** and Save Deckard Cain
-14. Take Waypoint to **Outer Cloister**
-15. Find **Barracks** 
+10. Follow path in **Dark Wood → Black Marsh → Find Black Marsh Wapoint**
+11. Run **Tower Cellar** in **Black Marsh** and kill Countess (farm Tal + Eth for Stealth)
+12. TP back to town -> Take **Stonyfield Waypoint**
+13. Open **Tristram** and save Deckard Cain -> TP back to town -> Take **Black Marsh Waypoint**
+14. Follow path to **Outer Cloister**, Waypoint is inside second doorway
+15. Take town portal or Waypoint back to **Stony Field** and Save Deckard Cain
+16. Take Waypoint to **Outer Cloister**
+17. Find **Barracks** 
     1. Waypoint: Left-side of square -> Barracks: Bottom-right
     2. Waypoint: Ride-side of square with bushes -> Barracks: Top-right
     3. Waypoint: Right-side of square with fountain -> Barracks: Top-left
